@@ -1,0 +1,34 @@
+1
+Nursery
+3
+11:00 AM
+12:00 AM
+09:00 AM
+01:00 PM
+Maths English Hindi
+
+3
+
+Aakash Singh
+1
+09:00 AM
+10:00 AM
+1
+Maths
+P
+
+Anamika Chaudhary
+1
+10:00 AM
+11:00 AM
+1
+English
+P
+
+Suraj Gupta
+1
+11:00 AM
+12:00 AM
+1
+Hindi
+P
